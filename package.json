@@ -3,7 +3,12 @@
 	"displayName": "search-sonu-blog",
 	"description": "",
 	"version": "0.0.1",
+	"author": "Sonu Kumar Kushwaha <flyingsonu736@gmail.com>",
 	"publisher": "SonuKumarKushwaha",
+	"repository": {
+        "type": "git",
+        "url": "https://github.com/flyingsonu122/search-sonu-blog"
+    },
 	"engines": {
 		"vscode": "^1.62.0"
 	},
