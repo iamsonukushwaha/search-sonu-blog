@@ -8,9 +8,9 @@ I have made this **[VS Code search blog extension](https://marketplace.visualstu
 
 
 ```
-1.Press Windows Key + Shift + P to open the command palette.
+1. Press Windows Key + Shift + P to open the command palette.
 2. Type "sonu" then select Search Sonu Blog now click on article.
-3. press open button to read blog.
+3. Press open button to read blog.
 ```
 
 <br/>
